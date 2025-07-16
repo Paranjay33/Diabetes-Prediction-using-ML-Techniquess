@@ -40,6 +40,11 @@ This project predicts the likelihood of diabetes in patients based on clinical h
 
 ### ▶️ Option 2: Run Locally (Convert notebook to `.py` if needed)
 
-```bash
-pip install -r requirements.txt
-streamlit run diabetes_prediction_streamlit.py
+## 🧑‍💻 Author
+
+**Paranjay Singh Jamwal**  
+B.Tech in Artificial Intelligence and Data Science  
+Amrita Vishwa Vidyapeetham  
+[GitHub: Paranjay33](https://github.com/Paranjay33)
+
+
